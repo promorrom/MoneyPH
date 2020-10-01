@@ -2,5 +2,9 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/luben/Desktop/Workspace/Libraries/PlaceholderAPI-2.10.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/luben/Desktop/Workspace/Libraries/patched_1.16.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/luben/Desktop/Workspace/Libraries/bank-plugin-4.2.1-RELEASE-all.jar"/>
+	<classpathentry kind="lib" path="C:/Users/luben/Desktop/Workspace/Libraries/Vault-1.7.3.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
